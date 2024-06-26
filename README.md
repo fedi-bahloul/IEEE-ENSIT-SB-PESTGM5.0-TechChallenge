@@ -59,9 +59,9 @@ The project is divided into two main parts: the AI part and the UI part.
 This part includes three files for handling various sensors in the house:
 
 1. **jardin.ino**: Manages garden sensors and sends data to the backend server.
-2. **interphoneinteligne.ino**: Handles the smart interphone.
-3. **codefinal.ino**: Manages the main house sensors and sends data to the backend server.
-
+2. **interphoneinteligne.ino**: Handles the smart interphone with es32cam.
+3. **jardinblynk.ino**: Manages the main house sensors and sends data to the backend server.
+4. **interphoneinteligneov7670.ino** Handles the smart interphone with ov7670.
 ## Installation and Setup
 
 1. Clone the repository:
